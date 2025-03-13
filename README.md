@@ -9,12 +9,13 @@ I'm a software engineer with a background in molecular biology. While working in
 
 ## Open-Source Contributions
 - Successfully contributed to [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - powerful scientific data visualisation tool.
-- Looking forward to engaging in more open-source collaborations
+- Looking forward to engaging in more open-source collaborations.
 
 ## How to Reach Me
 - GitHub: [a17sol](https://github.com/your-username)
 - Email: solomisha57@gmail.com
 - Telegram: [@Misha_Solovyev](https://t.me/Misha_Solovyev)
+- Gists: [a17sol](https://gist.github.com/a17sol)
 
 <!--
 **a17sol/a17sol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
