@@ -9,6 +9,7 @@ I'm a software engineer with a background in molecular biology. While working in
 
 ## Open-Source Contributions
 - Successfully contributed to [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - powerful scientific data visualisation tool.
+- Contributed to a modern implementation of a compiler for the extinct [B programming language](https://github.com/tsoding/b).
 - Looking forward to engaging in more open-source collaborations.
 
 ## How to Reach Me
