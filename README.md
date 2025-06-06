@@ -3,6 +3,7 @@
 I'm a software engineer with a background in molecular biology. While working in scientific research, I discovered my passion for computational methods and programming. Now, I'm pursuing a Master's degree in Software Engineering and developing various projects spanning automation, data processing/visualisation, and interactive entertainment.
 
 ## My Projects
+- **[Levers](https://github.com/a17sol/levers)** – A Python package for visualizing lever mechanisms and animated geometry. Available on [PyPI](https://pypi.org/project/levers/).
 - **[play_zonk_bot](https://github.com/a17sol/play_zonk_bot)** – A Telegram bot that hosts multiplayer Zonk (Farkle) games in group chats. A live instance of the bot is available [here](https://t.me/play_zonk_bot).
 - **[ProHiC](https://github.com/a17sol/ProHiC)** – A cross-platform Python-based application for data visualisation in 3D-genomics with unique features. Has been used in real research (e.g. [here](https://www.biorxiv.org/content/10.1101/2021.04.30.439615v1.full)).
 - **[GM-machine](https://github.com/a17sol/GM-machine)** – A custom AppScript solution for automating DnD-like game sessions management, making it convenient for players and game masters both.
