@@ -1,6 +1,6 @@
 # Hi there! I'm Michael Solovyev
 
-I'm a software developer passionate about building efficient systems and solving complex problems. Proficient in Python and C, crafting clean and scalable systems by design. Now, I'm pursuing a Master's degree in Software Engineering while developing various projects spanning education, automation, data processing/visualisation, and interactive entertainment. Background in biology and hands-on experience with electronics/hardware bring a unique perspective to solving technical challenges.
+I'm a software developer passionate about building efficient systems and solving complex problems. Proficient in Python and C, I focus on writing clean and scalable code. Currently, I'm pursuing a Master's degree in Software Engineering while developing various projects spanning education, automation, data processing/visualization, and interactive entertainment. With a background in biology and hands-on experience in electronics and hardware, I bring a multidisciplinary perspective to technical problem-solving.
 
 ## My Projects
 - **[Levers](https://github.com/a17sol/levers)** – A Python package for visualizing lever mechanisms and animated geometry. Available on [PyPI](https://pypi.org/project/levers/).
