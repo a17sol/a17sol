@@ -9,7 +9,8 @@ I'm a software developer passionate about building efficient systems and solving
 - **[GM-machine](https://github.com/a17sol/GM-machine)** – A custom AppScript solution for automating DnD-like game sessions management, making it convenient for players and game masters both.
 
 ## Open-Source Contributions
-- Successfully contributed to [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - powerful scientific data visualisation tool.
+- Contributed to [htop](https://github.com/htop-dev/htop) - a cross-platform interactive process viewer.
+- Contributed to [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - powerful scientific data visualisation tool.
 - Contributed to a modern implementation of a compiler for the extinct [B programming language](https://github.com/tsoding/b).
 - Looking forward to engaging in more open-source collaborations.
 
